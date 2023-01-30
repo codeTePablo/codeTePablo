@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">I'm a Computer Engineering Student</h3>
-
 <p align="center">
  <img width="50px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif"> 
  <img src="Developer.png"> 
  <img width="50px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif"> 
  </p>
+
+<h1 align="center">Hi 👋, I'm Pablo</h1>
+<h3 align="center">I'm a Computer Engineering Student</h3>
 
 - 🌱 I’m currently learning **Algorithms, AI, ML.**
 
