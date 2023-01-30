@@ -19,11 +19,12 @@
 
 <br>
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codeTePablo&show_icons=true&theme=radical&count_private=true&custom_title=@adrianaluisadc "> 
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codeTePablo&show_icons=true&theme=radical&count_private=true&custom_title=@codeTePablo"> 
  <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianaluisadc&theme=radical" />
 </p>
 
 <p align="center">
+ <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeTePablo&layout=compact&theme=radical&custom_title=Languages" /> 
  <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
  <br>
