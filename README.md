@@ -1,5 +1,5 @@
 <p align="center">
- <img width="500" px src="Developer.png"> 
+ <img width="400" px src="Developer.png"> 
  </p>
  
 <h1 align="center">Hi 👋, I'm Pablo</h1>
