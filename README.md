@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h3 align="center">I'm a Computer Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codetepablo&label=Profile%20views&color=0e75b6&style=flat" alt="codetepablo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codetepablo" alt="codetepablo" /></a> </p>
-
 - 🌱 I’m currently learning **Algorithms, AI, ML.**
 
 - 👯 I’m looking to collaborate on **open source projects.**
