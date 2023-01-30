@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Pablo</h1>
-<h3 align="center">I'm a Computer Engineering Student</h3>
-
 <p align="center">
  <img src="Developer.png"> 
-</p>
+ </p>
+ 
+<h1 align="center">Hi 👋, I'm Pablo</h1>
+<h3 align="center">I'm a Computer Engineering Student</h3>
 
 - 🌱 I’m currently learning **Algorithms, AI, ML.**
 
@@ -24,8 +24,9 @@
 </p>
 
 <p align="center">
- <img width="50px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
+ <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeTePablo&layout=compact&theme=radical&custom_title=Languages" /> 
- <img width="50px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
+ <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
  <br>
 </p>
+<img width="50px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif"> 
