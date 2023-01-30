@@ -2,10 +2,8 @@
 <h3 align="center">I'm a Computer Engineering Student</h3>
 
 <p align="center">
- <img width="60px" src="https://media2.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"> 
  <img src="Developer.png"> 
- <img width="60px" src="https://media2.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"> 
- </p>
+</p>
 
 - 🌱 I’m currently learning **Algorithms, AI, ML.**
 
@@ -26,10 +24,8 @@
 </p>
 
 <p align="center">
- <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
+ <img width="50px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeTePablo&layout=compact&theme=radical&custom_title=Languages" /> 
- <img width="200px"src="https://i.dlpng.com/static/png/7039439_preview.png">
+ <img width="50px" src="https://media4.giphy.com/media/eLw1b6BOoLoQJNy6PJ/giphy.gif">
  <br>
- <br>
- 
 </p>
